@@ -2,12 +2,12 @@
 
 One Dollar ($1) Challenge (2nd Week) <br>
 
-◙ Create a unique application by applying OOP principles. It could be anything from a CLI app to an API or <br>   anything in between. <br>
 
 ꧁༺ 05/05/2025 ༻꧂ 
 
 🅀🅄🄰🅃🄴🅁 3 <br>
 
+◙ Create a unique application by applying OOP principles. It could be anything from a CLI app to an API or <br>     anything in between. <br>
 # GIAIC Q3
 Governor Sindh IT Initiative Repositories<br>
 Author       : merchantsons (GITHUB USER NAME)<br>
