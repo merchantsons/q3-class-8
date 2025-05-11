@@ -2,7 +2,7 @@
 
 One Dollar ($1) Challenge (2nd Week) <br>
 
-◙ Create a unique application by applying OOP principles. It could be anything from a CLI app to an API or anything in between. <br>
+◙ Create a unique application by applying OOP principles. It could be anything from a CLI app to an API or <br>   anything in between. <br>
 
 ꧁༺ 05/05/2025 ༻꧂ 
 
